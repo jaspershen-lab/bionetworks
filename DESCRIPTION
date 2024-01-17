@@ -1,10 +1,10 @@
 Package: bionetworks
-Title: What the Package Does (One Line, Title Case)
+Title: This package is used to construct and analyze biological networks
 Version: 0.0.0.9000
 Authors@R: 
     person("Xiaotao", "Shen", , "xiaotao.shen@outlook.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           comment = c(ORCID = "0000-0002-9608-9964"))
+Description: bionetworks is used to construct and analyze biological networks, including protein-protein interaction networks, gene co-expression networks, gene regulatory networks, metabolic network, and so on.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
